@@ -33,3 +33,5 @@ To run the script, use the following command:
 ```sh
 python project2.py <workspace_directory> <csv_filename> <output_shapefile_name> <EPSG_code>
 
+### Example: 
+python project2.py E:\workspace\project2 boundary.csv pnt_elev2.shp 32119
